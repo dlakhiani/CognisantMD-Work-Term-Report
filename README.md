@@ -39,4 +39,4 @@ Impact and influence is something that many organisations strive for; CognisantM
 
 
 
-![celebration](celebration.jpg)
+![celebrate](celebration.png)
