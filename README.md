@@ -33,10 +33,10 @@ Impact and influence is something that many organisations strive for; CognisantM
 
 ## Conclusion
 
-
+CognisantMD is as much a family as it is a company. Collaborating with talented individuals - all with the shared goal to better patient charting and clinical decision support through EMR-integrated solutions. They showed me that designing software is more than just its specs, it is also about the intention. A fantastic experience no amount of words can illustrate.
 
 ## Acknowledgments
 
-
+Among the numerous acknowledgements, I would want to express my gratitude to CognisandMD's VP of R&D and Director of R&D, Greg Taylor and Jonathan Fishbein, for taking a chance with me as their summer intern. They welcomed me into CognisantMD, guided me through my internship, introduced me to the development process, and helped me realize my potential. My heartiest thanks go to them and the co-developers I worked with along the way! 👋😄
 
 ![celebrate](celebration.png)
