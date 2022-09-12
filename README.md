@@ -29,7 +29,7 @@ Impact and influence is something that many organisations strive for; CognisantM
 
 ### Adopt an agile software development cycle
 
-- During this internship, I participated in discussions with several engineers who think and approach their issues differently, higlighting their pros and cons and working to find optimal approaches to their assignments. I quickly became comfortable with the agile software development cycle, having taught me that there is always room for improvement and that issues are always resolvable.
+- During this internship, I participated in discussions with several engineers who think and approach their issues differently, highlighting their pros and cons and working to find optimal approaches to their assignments. I quickly became comfortable with the agile software development cycle, which has taught me that there is always room for improvement and that issues are always resolvable.
 
 ## Conclusion
 
