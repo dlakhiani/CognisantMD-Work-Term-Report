@@ -30,8 +30,8 @@ Impact and influence is something that many organisations strive for; CognisantM
 ### Adopt an agile software development cycle
 
 - During this internship, I participated in discussions with several engineers who think and approach their issues differently, highlighting their pros and cons and working to find optimal approaches to their assignments. I quickly became comfortable with the agile software development cycle, which has taught me that there is always room for improvement and that issues are always resolvable.
----
 
+---
 ## Conclusion
 
 CognisantMD is as much a family as it is a company. Collaborating with talented individuals - all with the shared goal to better patient charting and clinical decision support through EMR-integrated solutions. They showed me that designing software is more than just its specs, it is also about the intention. A fantastic experience no amount of words can illustrate.
